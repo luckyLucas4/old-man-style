@@ -1,0 +1,712 @@
+fileFormatVersion: 2
+guid: 7c093d50c5a1e1443b213083ae3bc2a0
+timeCreated: 1527511571
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hjm-small_trees_roots_1-alpha_0
+    21300002: hjm-small_trees_roots_1-alpha_1
+    21300004: hjm-small_trees_roots_1-alpha_2
+    21300006: hjm-small_trees_roots_1-alpha_3
+    21300008: hjm-small_trees_roots_1-alpha_4
+    21300010: hjm-small_trees_roots_1-alpha_5
+    21300012: hjm-small_trees_roots_1-alpha_6
+    21300014: hjm-small_trees_roots_1-alpha_7
+    21300016: hjm-small_trees_roots_1-alpha_8
+    21300018: hjm-small_trees_roots_1-alpha_9
+    21300020: hjm-small_trees_roots_1-alpha_10
+    21300022: hjm-small_trees_roots_1-alpha_11
+    21300024: hjm-small_trees_roots_1-alpha_12
+    21300026: hjm-small_trees_roots_1-alpha_13
+    21300028: hjm-small_trees_roots_1-alpha_14
+    21300030: hjm-small_trees_roots_1-alpha_15
+    21300032: hjm-small_trees_roots_1-alpha_16
+    21300034: hjm-small_trees_roots_1-alpha_17
+    21300036: hjm-small_trees_roots_1-alpha_18
+    21300038: hjm-small_trees_roots_1-alpha_19
+    21300040: hjm-small_trees_roots_1-alpha_20
+    21300042: hjm-small_trees_roots_1-alpha_21
+    21300044: hjm-small_trees_roots_1-alpha_22
+    21300046: hjm-small_trees_roots_1-alpha_23
+    21300048: hjm-small_trees_roots_1-alpha_24
+    21300050: hjm-small_trees_roots_1-alpha_25
+    21300052: hjm-small_trees_roots_1-alpha_26
+    21300054: hjm-small_trees_roots_1-alpha_27
+    21300056: hjm-small_trees_roots_1-alpha_28
+    21300058: hjm-small_trees_roots_1-alpha_29
+    21300060: hjm-small_trees_roots_1-alpha_30
+    21300062: hjm-small_trees_roots_1-alpha_31
+    21300064: hjm-small_trees_roots_1-alpha_32
+    21300066: hjm-small_trees_roots_1-alpha_33
+    21300068: hjm-small_trees_roots_1-alpha_34
+    21300070: hjm-small_trees_roots_1-alpha_35
+    21300072: hjm-small_trees_roots_1-alpha_36
+    21300074: hjm-small_trees_roots_1-alpha_37
+    21300076: hjm-small_trees_roots_1-alpha_38
+    21300078: hjm-small_trees_roots_1-alpha_39
+    21300080: hjm-small_trees_roots_1-alpha_40
+    21300082: hjm-small_trees_roots_1-alpha_41
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_0
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1246
+        width: 247
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_1
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 1346
+        width: 90
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_2
+      rect:
+        serializedVersion: 2
+        x: 1273
+        y: 1103
+        width: 242
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_3
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 1228
+        width: 224
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_4
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1166
+        width: 134
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_5
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 980
+        width: 355
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_6
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1109
+        width: 189
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_7
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1049
+        width: 120
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 679
+        width: 151
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_9
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 858
+        width: 182
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_10
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 921
+        width: 79
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_11
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 733
+        width: 150
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_12
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 679
+        width: 148
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_13
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 679
+        width: 186
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_14
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 440
+        width: 170
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_15
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 552
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_16
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 565
+        width: 40
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_17
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 566
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_18
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 566
+        width: 10
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_19
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 570
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_20
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 565
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_21
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 565
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_22
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 570
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_23
+      rect:
+        serializedVersion: 2
+        x: 1361
+        y: 570
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_24
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 570
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_25
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 570
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_26
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 565
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_27
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 570
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_28
+      rect:
+        serializedVersion: 2
+        x: 1448
+        y: 570
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_29
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 566
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_30
+      rect:
+        serializedVersion: 2
+        x: 1519
+        y: 570
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_31
+      rect:
+        serializedVersion: 2
+        x: 1567
+        y: 570
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_32
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 570
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_33
+      rect:
+        serializedVersion: 2
+        x: 1603
+        y: 570
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_34
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 427
+        width: 171
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_35
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 315
+        width: 141
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_36
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 132
+        width: 129
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_37
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 263
+        width: 202
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_38
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 302
+        width: 79
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_39
+      rect:
+        serializedVersion: 2
+        x: 1976
+        y: 244
+        width: 201
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_40
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 91
+        width: 196
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hjm-small_trees_roots_1-alpha_41
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 120
+        width: 335
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
